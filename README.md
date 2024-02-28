@@ -5,7 +5,8 @@
 </em></p>
 
 
-<a href="https://www.linkedin.com/in/pulkit-arora-92502321" ><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" height="30" width="30"/></a> 
+<a href="https://www.linkedin.com/in/pulkit-arora-92502321a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"/>
+<img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" height="30" width="30"/></a> 
  
 
 
