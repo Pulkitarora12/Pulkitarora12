@@ -23,7 +23,7 @@ const pulkit = {
 
         databases: ["MySql"],
 
-    currentFocus: ["Web Development"]
+    currentFocus: ["Web Development" , "DSA"]
 };
 ```
 
