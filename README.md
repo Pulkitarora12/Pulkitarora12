@@ -18,12 +18,12 @@
 ```javascript
 const pulkit = {
     pronouns: "He" | "Him",
-    code: ["Java", "Python", "C", "CSS" , "HTML" , "Tailwind"],
+    code: ["Java", "Python", "C", "CSS" , "HTML" , "Tailwind", "SpringBoot"],
     askMeAbout: ["web dev", "tech", "photography"],
 
-        databases: ["MySql"],
+        databases: ["MySql", "PostgreSQL"],
 
-    currentFocus: ["Web Development" , "DSA"]
+    currentFocus: ["Web Development" , "DSA", "Competitive Programming"]
 };
 ```
 
