@@ -18,7 +18,7 @@ const pulkit = {
   role:       "SDE Intern (Backend) — open to opportunities",
   stack:      ["Java", "Spring Boot", "React", "Docker", "RabbitMQ", "Redis"],
   currently:  "building CodeWar — real-time 1v1 competitive coding battles",
-  experience: ["MIS @ Super Metal Forging Industries", "SaaS platform @ Accounts Bureau"],
+  experience: ["MIS @ Super Metal Forging Industries", "Sales Management Platform platform @ Accounts Bureau"],
   interests:  ["distributed systems", "event-driven architecture", "competitive programming"],
   openTo:     "backend / SDE internships at product companies & Indian startups",
 };
