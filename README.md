@@ -77,12 +77,6 @@ const pulkit = {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pulkitarora12&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkitarora12&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Pulkitarora12&theme=github-dark&hide_border=true" height="160"/>
 </p>
 
