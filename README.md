@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/pulkit-arora-92502321a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/uc?export=download&id=1wuF6rRkIaZ07xIOyRbP2NgjPl3hN_MAi">
+  <a href="https://drive.google.com/file/d/1dCDRiXJbieS9xY8FCKTgyiOzbQuWIifb/view?usp=drivesdk">  
     <img src="https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledrive&logoColor=white" />
   </a>
 </p>
