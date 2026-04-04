@@ -71,7 +71,7 @@ const pulkit = {
 
 ---
 
-**🏭 Manufacturing MIS — Super Metal Forging Industries**
+**[🏭 Manufacturing MIS — Super Metal Forging Industries](https://github.com/Pulkitarora12/Super-Metal-MIS)**
 > Internal MIS system for a manufacturing firm. Real-time WebSocket dashboards, role-based access control, Google Sheets API sync, deployed on Windows Server.
 `Spring Boot` `WebSocket` `RBAC` `Google Sheets API`
 
