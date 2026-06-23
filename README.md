@@ -40,40 +40,6 @@ const pulkit = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### 🚀 Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**[⚔ CodeWar](https://github.com/Pulkitarora12/CodeWar)**
-
-Real-time 1v1 competitive coding platform. Contest rooms, async submission verification via RabbitMQ, live leaderboard over WebSocket STOMP, stake-based entry with wallet integration.
-
-`Spring Boot` `RabbitMQ` `WebSocket` `React` `MySQL` `Docker`
-
-</td>
-<td width="33%" valign="top">
-
-**[🔐 AuthTemplate](https://github.com/Pulkitarora12/AuthTemplate)**
-
-Production-ready Spring Boot auth boilerplate — JWT, OAuth2 (GitHub + Google), RBAC, TOTP MFA, audit logging. Drop-in starter for any new backend project.
-
-`Spring Security` `JWT` `OAuth2` `TOTP` `CSRF`
-
-</td>
-<td width="33%" valign="top">
-
-**[🏭 Manufacturing MIS](https://github.com/Pulkitarora12/Super-Metal-MIS)**
-
-Internal MIS for a manufacturing firm. Real-time WebSocket dashboards, role-based access control, Google Sheets API sync, deployed on Windows Server.
-
-`Spring Boot` `WebSocket` `RBAC` `Google Sheets API`
-
-</td>
-</tr>
-</table>
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Pulkitarora12&theme=github-dark&hide_border=true" height="160"/>
