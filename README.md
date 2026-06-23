@@ -12,6 +12,9 @@
   <a href="https://drive.google.com/file/d/1rN36w9BY5jNDNNwdnwuhz4-0ZzthzYeJ/view?usp=sharing">  
     <img src="https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledrive&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/pulkitarora0714/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
