@@ -15,17 +15,6 @@
   </a>
 </p>
 
-```javascript
-const pulkit = {
-  role:       "SDE Intern (Backend) — open to opportunities",
-  stack:      ["Java", "Spring Boot", "React", "Docker", "RabbitMQ", "Redis"],
-  currently:  "building CodeWar — real-time 1v1 competitive coding battles",
-  experience: ["MIS @ Super Metal Forging Industries", "Sales Management Platform @ Accounts Bureau"],
-  interests:  ["distributed systems", "event-driven architecture", "competitive programming"],
-  openTo:     "backend / SDE internships at product companies & Indian startups",
-};
-```
-
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
