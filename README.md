@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/pulkit-arora-92502321a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1rN36w9BY5jNDNNwdnwuhz4-0ZzthzYeJ/view?usp=sharing">  
+  <a href="https://drive.google.com/file/d/1zAod15CRJfMs0pIwgdtK2ExrtffZLlF7/view?usp=sharing">  
     <img src="https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledrive&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/pulkitarora0714/">
