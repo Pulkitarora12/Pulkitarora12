@@ -1,38 +1,44 @@
 <h1 align="center">Hey, I'm Pulkit Arora 👋</h1>
+<h3 align="center">Java Backend Developer · Final-Year CSE @ BPIT, Delhi</h3>
+
 <p align="center">
-  <b>Backend Engineer · Full-Stack Builder · Delhi, IN</b><br/>
-  3rd year CS @ BPIT · Targeting SDE/Backend internships
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/pulkit-arora-92502321a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/1zAod15CRJfMs0pIwgdtK2ExrtffZLlF7/view?usp=sharing">  
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledrive&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/pulkitarora0714/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
-  </a>
+  Building production-grade systems — Spring Boot, distributed systems, and developer tools.<br/>
+  Open to SDE / Backend internships (PPO track) for 2027.
 </p>
 
-### 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pulkit-arora-92502321a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1zAod15CRJfMs0pIwgdtK2ExrtffZLlF7/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/pulkitarora0714/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+**Data & Infra**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pulkitarora12&theme=github-dark&hide_border=true" height="160"/>
-</p>
 
 <p align="center">
-  <i>Open to backend / SDE internships — feel free to reach out on <a href="https://www.linkedin.com/in/pulkit-arora-92502321a">LinkedIn</a></i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pulkitarora12&theme=dark&hide_border=true" width="48%"/>
 </p>
+
+---
+
+<p align="center"><i>📫 Open to backend / SDE internships — reach out on <a href="https://www.linkedin.com/in/pulkit-arora-92502321a">LinkedIn</a></i></p>
