@@ -33,6 +33,13 @@
 
 ---
 
+## 🧩 Interactive CLI Card
+
+```bash
+npx pulkitarora
+```
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
