@@ -11,6 +11,7 @@
   <a href="https://www.npmjs.com/~pulkitarora12"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
   <a href="https://drive.google.com/file/d/1zAod15CRJfMs0pIwgdtK2ExrtffZLlF7/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
   <a href="https://leetcode.com/u/pulkitarora0714/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://pulkitarora.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 ---
 
