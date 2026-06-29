@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="mailto:pulkitarora0714@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/pulkit-arora-92502321a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.npmjs.com/~pulkitarora12"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
   <a href="https://drive.google.com/file/d/1NjP_-VWG5rHUyX_sMVlZ34XCSubOn0_T/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
@@ -50,4 +51,4 @@ npx pulkitarora
 
 ---
 
-<p align="center"><i>📫 Open to backend / SDE internships — reach out on <a href="https://www.linkedin.com/in/pulkit-arora-92502321a">LinkedIn</a></i></p>
+<p align="center"><i>📫 Open to backend / SDE internships — reach out on <a href="https://www.linkedin.com/in/pulkit-arora-92502321a">LinkedIn</a> or email at <a href="mailto:pulkitarora0714@gmail.com">pulkitarora0714@gmail.com</a></i></p>
