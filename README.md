@@ -14,8 +14,9 @@
   <a href="https://pulkitarora.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
+---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages & Frameworks**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
