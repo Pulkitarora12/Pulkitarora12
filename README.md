@@ -13,7 +13,7 @@
   <a href="https://leetcode.com/u/pulkitarora0714/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://pulkitarora.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
----
+
 
 ### 🛠️ Tech Stack
 
