@@ -13,6 +13,7 @@
   <a href="https://drive.google.com/file/d/1NjP_-VWG5rHUyX_sMVlZ34XCSubOn0_T/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
   <a href="https://leetcode.com/u/pulkitarora0714/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://pulkitarora.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=pulkitarora0714&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 
 ---
