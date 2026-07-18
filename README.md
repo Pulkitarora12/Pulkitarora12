@@ -1,19 +1,4 @@
-<div align="center">
 
-<h3><code>pulkit@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="1210" />
-
-<br><br>
-
-<h3><code>pulkit@github ~ $ whoami</code></h3>
-<table>
-  <tr>
-    <td valign="top"><img src="./avi-ascii.svg" width="720" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" /></td>
-  </tr>
-</table>
-
-</div>
 <h1 align="center">Hey, I'm Pulkit Arora 👋</h1>
 <h3 align="center">Java Backend Developer · Final-Year CSE @ BPIT, Delhi</h3>
 
@@ -33,21 +18,15 @@
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+<h3><code>pulkit@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
 
-**Languages & Frameworks**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Data & Infra**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+</div>
 
 ---
 ## 🧩 Interactive CLI Card
