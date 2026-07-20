@@ -17,18 +17,6 @@
 </p>
 
 ---
-
-<div align="center">
-<h3><code>pulkit@github ~ $ whoami</code></h3>
-<table>
-  <tr>
-    <td valign="top"><img src="./info-card.svg" width="490" /></td>
-  </tr>
-</table>
-
-</div>
-
----
 ## 🧩 Interactive CLI Card
 ```
 npx pulkitarora
