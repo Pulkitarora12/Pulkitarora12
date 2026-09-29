@@ -4,7 +4,7 @@
 
 <p align="center">
   Building production-grade systems — Spring Boot, distributed systems, and developer tools.<br/>
-  Open to SDE / Backend internships (PPO track) for 2027.
+  Open for freelance work.
 </p>
 
 <p align="center">
@@ -31,4 +31,4 @@ npx pulkitarora
 
 ---
 
-<p align="center"><i>📫 Open to backend / SDE internships — reach out on <a href="https://www.linkedin.com/in/pulkit-arora-92502321a">LinkedIn</a> or email at <a href="mailto:pulkitarora0714@gmail.com">pulkitarora0714@gmail.com</a></i></p>
+<p align="center"><i>📫 Open for freelance jobs — reach out on <a href="https://www.linkedin.com/in/pulkit-arora-92502321a">LinkedIn</a> or email at <a href="mailto:pulkitarora0714@gmail.com">pulkitarora0714@gmail.com</a></i></p>
